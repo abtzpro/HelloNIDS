@@ -11,3 +11,5 @@ This script was created for the purpose of sharing with the cybersecurity commun
 
 This code captures packets on ports 110, 25, and 143 (POP3, SMTP, and IMAP) and checks if the packet payload contains the words "user" or "pass". If it does, the code prints the server IP address and port number, as well as the captured usernames and passwords.
 Keep in mind that this is just a basic NIDS building block and there are many more steps and considerations involved in building a comprehensive NIDS. 
+
+HelloNIDS is Developed by abtzpro, Adam R, and Hello Security
